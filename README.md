@@ -12,12 +12,21 @@ I’m a developer focused on building practical applications and continuously im
 * HTML, CSS
 * MySQL
 
-## Projects
 
-### Project One
+##  Projects
 
-Short description of what it does and what problem it solves.
-Tech: X, Y, Z
+###  Smart Transit
+
+A smart public transportation system designed to improve commuting by providing real-time insights and optimized travel planning.
+
+* Built to solve issues like route confusion, overcrowding, and inefficient transport navigation
+* Focuses on integrating data for better decision-making and user experience
+* Designed with scalability in mind for urban transport systems
+
+**Tech:** JavaScript / React / Backend (update with your actual stack)
+
+🔗 https://github.com/vdadheech/Smart-Transit
+
 
 ### Project Two
 

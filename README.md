@@ -28,15 +28,30 @@ A smart public transportation system designed to improve commuting by providing 
 🔗 https://github.com/vdadheech/Smart-Transit
 
 
-### Project Two
+### 🔹 ByteScythe AEGIS
 
-Short description of what it does and what problem it solves.
-Tech: X, Y, Z
+A system designed to enhance security through automated threat detection and protection mechanisms.
 
-### Project Three
+* Identifies potential vulnerabilities and risks
+* Focuses on improving system-level security handling
+* Designed with a modular and scalable approach
 
-Short description of what it does and what problem it solves.
-Tech: X, Y, Z
+**Tech:** (update this)
+
+🔗 https://github.com/vdadheech/ByteScythe_AEGIS
+
+
+### 🔹 StarShield
+
+A machine learning-based system that predicts whether near-Earth objects pose a potential threat.
+
+* Uses real NASA JPL data to classify hazardous vs non-hazardous asteroid approaches
+* Implements a Random Forest model for risk prediction
+* Features a dashboard for visualizing asteroid data and risk insights
+
+**Tech:** Python, FastAPI, React, Machine Learning
+
+🔗 https://github.com/DivyaMishra896/StarShield
 
 ## Current Focus
 

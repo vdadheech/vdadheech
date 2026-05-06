@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Vaidehi Dadheech
 
-<!--
-**vdadheech/vdadheech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
 
-Here are some ideas to get you started:
+I’m a developer focused on building practical applications and continuously improving my problem-solving and development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+* Java
+* JavaScript
+* Python
+* HTML, CSS
+* MySQL
+
+## Projects
+
+### Project One
+
+Short description of what it does and what problem it solves.
+Tech: X, Y, Z
+
+### Project Two
+
+Short description of what it does and what problem it solves.
+Tech: X, Y, Z
+
+### Project Three
+
+Short description of what it does and what problem it solves.
+Tech: X, Y, Z
+
+## Current Focus
+
+* Building better projects
+* Strengthening development fundamentals
+* Exploring new technologies
+
+## Contact
+
+* LinkedIn: (your link)
